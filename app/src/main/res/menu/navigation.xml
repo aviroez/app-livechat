@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_nearby"
+        android:title="@string/nearby"
+        />
+    <!--android:icon="@drawable/ic_nearby"-->
+
+    <item
+        android:id="@+id/navigation_popular"
+        android:title="@string/popular"
+        />
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:title="@string/explore"
+        />
+    <!--android:icon="@drawable/ic_popular"-->
+
+    <item
+        android:id="@+id/navigation_search"
+        android:title=""
+        android:icon="@drawable/ic_search"
+        />
+    <!--android:title="@string/search"-->
+
+</menu>

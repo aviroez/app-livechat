@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frame_rate_list_preference">
+        <item>Low (15 fps)</item>
+        <item>Medium (20 fps)</item>
+        <item>High (30 fps)</item>
+    </string-array>
+    <integer-array name="frame_rate_values_list_preference">
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <!--<integer-array name="">-->
+    <!--</integer-array>-->
+</resources>
